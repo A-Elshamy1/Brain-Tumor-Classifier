@@ -19,4 +19,3 @@ This project demonstrates how to apply computer vision techniques for binary tum
 - 🧪 **MRI Augmentation** — Robust data preprocessing with rotation, zoom, shift, and shear
 - 📉 **Training Visualization** — Accuracy and loss plots over epochs
 - 💡 **Inference-Ready** — Includes a function to classify new MRI scans
-- 📱 **TFLite Export** — Supports mobile and embedded deployment
